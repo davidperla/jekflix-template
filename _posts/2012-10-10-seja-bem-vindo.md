@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Seja bem-vindo"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'https://raw.githubusercontent.com/javier-marroquin/jekflix-template/gh-pages/imagenes/carros/toyota/toy.jpg'
-category: 'blog'
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: "Posiciones en la formula 1"
+description: nuevas pocisiones en la formula 1
+image: 'https://raw.githubusercontent.com/davidperla/jekflix-template/gh-pages/assets/img/f1.jpg'
+category: 'Formula 1'
+introduction: los resultados de la ultima fecha de la formula 1 han dado los resultados a favor de david perla.
 ---
 # Seja
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
