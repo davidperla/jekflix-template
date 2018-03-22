@@ -8,7 +8,7 @@ category: 'life'
 tags:
 - life
 - tips
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+twitter_text: ajkshdgfkjsd fgksjdergfoiuysreui gfkserfkwrygtfiuse 
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
